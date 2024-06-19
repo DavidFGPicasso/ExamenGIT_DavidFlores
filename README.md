@@ -5,3 +5,4 @@ En este examen voy a poner en práctica todos los conocimientos sobre **GIT** qu
 - Realizar commits
 - Trabajar con ramas
 ## Objetivo ##
+Crearemos una web para el instituto [IES Pablo Picasso]
