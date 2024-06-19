@@ -187,3 +187,6 @@ label {
 #resultadoConsultaDiv{
   display: none;
 }
+.imagen{
+  width:60vw;
+}
